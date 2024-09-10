@@ -7,7 +7,7 @@
 4.  git commint -m "Mi primer commit" : Pasa cambios de staging area a repository
 5. git log : Te muestra todos los commit
 6. git log --oneline : Resumir los commit
-git 
+7. git push : subir al repositorio (Nube)
 
 
 ## BRANCHS
